@@ -1,0 +1,39 @@
+
+int main()
+{
+	int current time = 3;
+	if (current time >= 12)
+	{
+		cout << "\nIt's PM" << endl;
+	}
+	else
+	{
+		cout << "it's AM" << endl;
+	}
+  
+  
+  int main(){
+	int age = 16;
+
+	if (age >= 18){
+		cout<<"user is eligible for voting.";
+	}
+	else{
+	      cout<<"user is not eligible for voting.";
+	
+	}
+  
+  
+  int main(){
+int num;
+cout << "Enter number to check if it is odd or even:";
+cin >> num;
+
+if (num % 2 == 0)
+{
+	cout << "it is even";
+}
+else
+{
+	cout << "itx odd";
+}
